@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "HomeworkDatabase", "HomeworkDatabase\HomeworkDatabase.sqlproj", "{9096FB61-A1E6-4872-A6D5-BB14ADB02D9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9096FB61-A1E6-4872-A6D5-BB14ADB02D9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9096FB61-A1E6-4872-A6D5-BB14ADB02D9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9096FB61-A1E6-4872-A6D5-BB14ADB02D9B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9096FB61-A1E6-4872-A6D5-BB14ADB02D9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9096FB61-A1E6-4872-A6D5-BB14ADB02D9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9096FB61-A1E6-4872-A6D5-BB14ADB02D9B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73C51BB8-8D16-4F4F-85CC-A7B775520B8A}
+	EndGlobalSection
+EndGlobal
